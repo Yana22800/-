@@ -1,0 +1,13 @@
+C:\Users\StudentDev\source\repos\Инь\Инь\bin\Debug\netcoreapp3.1\Инь.exe
+C:\Users\StudentDev\source\repos\Инь\Инь\bin\Debug\netcoreapp3.1\Инь.deps.json
+C:\Users\StudentDev\source\repos\Инь\Инь\bin\Debug\netcoreapp3.1\Инь.runtimeconfig.json
+C:\Users\StudentDev\source\repos\Инь\Инь\bin\Debug\netcoreapp3.1\Инь.runtimeconfig.dev.json
+C:\Users\StudentDev\source\repos\Инь\Инь\bin\Debug\netcoreapp3.1\Инь.dll
+C:\Users\StudentDev\source\repos\Инь\Инь\bin\Debug\netcoreapp3.1\Инь.pdb
+C:\Users\StudentDev\source\repos\Инь\Инь\obj\Debug\netcoreapp3.1\Инь.csprojAssemblyReference.cache
+C:\Users\StudentDev\source\repos\Инь\Инь\obj\Debug\netcoreapp3.1\Инь.AssemblyInfoInputs.cache
+C:\Users\StudentDev\source\repos\Инь\Инь\obj\Debug\netcoreapp3.1\Инь.AssemblyInfo.cs
+C:\Users\StudentDev\source\repos\Инь\Инь\obj\Debug\netcoreapp3.1\Инь.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\source\repos\Инь\Инь\obj\Debug\netcoreapp3.1\Инь.dll
+C:\Users\StudentDev\source\repos\Инь\Инь\obj\Debug\netcoreapp3.1\Инь.pdb
+C:\Users\StudentDev\source\repos\Инь\Инь\obj\Debug\netcoreapp3.1\Инь.genruntimeconfig.cache
