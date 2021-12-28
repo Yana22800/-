@@ -29,6 +29,13 @@ namespace Инь
             DateTime user_meetTime = new DateTime(user_meetTimeYear, user_meetTimeMonth, user_meetTimeDay, user_meetTimeHour, user_meetTimeMinute, 0);
 
             meetManager.AddNewMeet(user_nameMeet, user_meetTime);
+
+            foreach (var item in meetManager.GetAll())
+            {
+                Console.WriteLine($"Имя встречи:{item.Name}");
+                Console.WriteLine($"Время встречи:{item.MeetTime}\r\n");
+            }
+
             Console.ReadKey();
         }
     }
